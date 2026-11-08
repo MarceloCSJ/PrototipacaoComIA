@@ -1,0 +1,9 @@
+# Prototipação Rápida com IA
+
+1. Utilizei o Copilot para gerar as personas, achei que pelo que tenho observado (pelo em Lages-SC) parece ser muito coerente
+2. Peguei uma persona (Camila Rodrigues, Revendedora de Produtos de Beleza) por ser de uma área onde atualmente estou trabalhando (Grupo Cize/O Boticário de Lages-SC) e, apesar de não estar inserido exatamente no meio da revenda, consigo ter uma visão sobre isso e também por minha mãe ser uma revendedora (que também se encaixaria em uma persona, assim como a Camila criada pelo Copilot).
+3. Personifiquei a Camila através do ChatGPT, porque acredito que ele seja mais "didático" e específico com algumas coisas, principalmente por (minha opiniao) deixar algumas coisas mais explícitas que o Copilot, por exemplo.
+4. Fiz algumas perguntas para essa personificação da Camila seguindo os slides e as respostas "dela".
+5. Após as perguntas que achei de certa forma validas com o que eu estava buscando no momento, fiz o prompt para a geração de uma tabela com os requisitos funcionais e não funcionais baseado nessa entrevista, pois seria criado alguns critérios e acredito que o próximo passo seria analizar esta tabela com atenção e verificar o que poderia ser melhorado e o que seria real, principalmente com pessoas reais (vide minha mãe), porém acredito que no momento não seria o caso nesta atividade.
+6. Após a solicitação dos requisitos, fiz o prompt para realizar o Moscow, Invest e 3 C's. Apesar de eu saber inglês, acredito que o ChatGPT poderia ter traduzido os termos durante a resposta, porém no meu caso não faz diferença.
+7. Apesar de eu não ter solicitado explicação sobre os termos do prompt anterior, o ChatGPT explicou alguns conceitos, porém acredito que um prompt ou pesquisa mais aprofundada seria necessário, pois ainda fiquei com dúvidas sobre os termos.  
