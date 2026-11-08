@@ -6,7 +6,7 @@ Revendedora de produtos de beleza
 
 - Idade: 34 anos
 - Profissão: Microempreendedora individual (MEI)
-- Cidade: Campinas – SP
+- Cidade: Campinas – SC
 - Negócio: Revenda de cosméticos, maquiagens, perfumes e produtos para cabelo.
 
 ### Principal dor relacionada ao gerenciamento de estoque
@@ -632,3 +632,37 @@ A aplicação das três técnicas permite organizar o desenvolvimento da seguint
    Lista de reposição, histórico de movimentações e funcionalidades complementares.
 
 Conclusão: para esse MVP, a prioridade deve ser garantir que o estoque registrado seja confiável. Os alertas só serão realmente úteis se as entradas e saídas forem registradas corretamente. Dessa forma, o sistema atende à principal necessidade de Camila: saber exatamente o que tem disponível e antecipar problemas antes de perder uma venda.
+
+# _Promtp Utilizado no ChatGPT (Usando o THINK, para que seja algo mais acertivo):_
+
+Dado todo o contexto anterior neste chat, gere um documento markdown com a seguinte estrutura: 
+✦ 01 · CONTEXT Contexto
+Resumo do problema, público, restrições (1 parágrafo).
+☻ 02 · PERSON Persona
+Persona primária com dor, cenário e métrica de sucesso.
+▤ 03 · RF Requisitos funcionais
+6-10 RFs numerados (RF01, RF02...).
+04 · RNF Requisitos não funcionais
+4-6 RNFs mensuráveis (RNF01, RNF02...).
+▤ 05 · US Histórias de usuário
+3-5 USs no formato canônico, cada uma com 3+ ACs.
+✓ 06 · AC Critérios de aceite
+ACs testáveis em formato checklist.
+⚑ 07 · OUT Fora de escopo
+O que NÃO será feito no MVP (importante!).
+
+# _Resposta ChatGPT:_
+
+O documento Markdown contém as sete seções solicitadas:
+
+1. Contexto
+2. Persona Camila Rodrigues
+3. Requisitos funcionais (9 RFs)
+4. Requisitos não funcionais (6 RNFs mensuráveis)
+5. Histórias de usuário (4 USs)
+6. Critérios de aceite (15 ACs em checklist)
+7. Fora de escopo do MVP
+
+Também incluí uma seção final com premissas e decisões importantes para evitar ambiguidades durante o desenvolvimento.
+
+# *Arquivo Final está no README.md*
